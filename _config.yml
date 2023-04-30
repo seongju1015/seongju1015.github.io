@@ -20,9 +20,9 @@
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Starter Kit
+title:성주의 블로그                 Starter Kit
 
-# A short description (~150 chars) of the page used for the meta description tag.
+# A short description (~150 chars) of the page used for the meta description tag.안녕하세요 개발자를 꿈꾸는 이성주입니다.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
   Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
@@ -42,8 +42,8 @@ logo:                  /assets/img/logo.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  name:이성주                <firstname> <lastname>
+  email: lee1015@handong.ac.kr               <mail@domain.tld>
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
