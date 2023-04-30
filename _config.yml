@@ -17,22 +17,20 @@
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
-lang:                  en
+lang:                  'kr'
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:seongju's blog                 Starter Kit
+title: '성주의 블로그'                
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
-description:           > Hi I am Seongju Lee I use C Language.
-  Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+description:           > 'Hi I am Seongju Lee I use C Language.'
 
 # A shorter description for the sidebar.
-tagline:               Change `tagline` in `_config.yml`
+tagline:               '# ESTP '
 
 # A list of keywords for your blog
-keywords:              []
+keywords: 'C Language'            
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -42,8 +40,8 @@ logo:                  /assets/img/logo.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:seongju Lee                <firstname> <lastname>
-  email: lee1015@handong.ac.kr               <mail@domain.tld>
+  name: 'seongju Lee'                
+  email: 'lee1015@handong.ac.kr'             
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
